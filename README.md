@@ -14,3 +14,7 @@
   - 2022/03/06 (Sun.)
     - (Easy) 94. Binary Tree Inorder Traversal [Q](adam_leetcode/easy/94_Binary_Tree_Inorder_Traversal.c)
     - (Easy)  169. Majority Element
+
+- Week2
+  - 2022/03/07 (Mon.)
+    - (Easy) 53. Maximum Subarray
