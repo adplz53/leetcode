@@ -18,3 +18,5 @@
 - Week2
   - 2022/03/07 (Mon.)
     - (Easy) 53. Maximum Subarray
+  - 2022/03/08 (Tue.)
+    - (Easy) 217. Contains Duplicate
