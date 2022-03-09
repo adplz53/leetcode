@@ -34,7 +34,7 @@ int *inorderTraversal(struct TreeNode *root, int *returnSize)
 // Runtime: 0 ms, faster than 100.00% of C online submissions for Binary Tree Inorder Traversal.
 // Memory Usage: 6.1 MB, less than 17.31% of C online submissions for Binary Tree Inorder Traversal.
 
-// ===== Why the values of ret would be [1,2,-1094795586]?
+// ===== Why the values of ret would be [1,2,-1094795586]? (input: [1, 2, 3, 4])
 // void travel(int* ptr, struct TreeNode* node){
 //     if (node->left) travel(ptr, node->left);
 //     *ptr = node->val;
