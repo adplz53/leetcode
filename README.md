@@ -22,3 +22,6 @@
     - (Easy) 217. Contains Duplicate
   - 2022/03/09 (Wed.)
     - (Easy) [190.](adam_leetcode/easy/190_Reverse_Bits.c) Reverse Bits
+  - 2022/03/12 (Sat.)
+    - (Easy) [242.](adam_leetcode/easy/242_Valid_Anagram.c) Valid Anagram
+    - (Easy) [268.](adam_leetcode/easy/268_Missing_Number.c) Missing Number
