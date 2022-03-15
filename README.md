@@ -28,3 +28,9 @@
   - 2022/03/13 (Sun.)
     - (Easy) [283.](adam_leetcode/easy/283_Move_Zeroes.c) Move Zeroes
     - (Easy) [344.](adam_leetcode/easy/344_Reverse_String.c) Reverse String
+
+- Week3
+  - 2022/03/14 (Mon.)
+    - (Easy) [118.](adam_leetcode/easy/118_Pascal's_Triangle.c) Pascal's Triangle
+  - 2022/03/15 (Tue.)
+    - (Easy) [412.](adam_leetcode/easy/412_Fizz_Buzz.c) Fizz Buzz
