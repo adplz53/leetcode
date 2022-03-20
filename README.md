@@ -34,3 +34,9 @@
     - (Easy) [118.](adam_leetcode/easy/118_Pascal's_Triangle.c) Pascal's Triangle
   - 2022/03/15 (Tue.)
     - (Easy) [412.](adam_leetcode/easy/412_Fizz_Buzz.c) Fizz Buzz
+  - 2022/03/19 (Sat.)
+    - (Easy) [202.](adam_leetcode/easy/202_Happy_Number.c) Happy Number
+    - (Easy) [387.](adam_leetcode/easy/387_First_Unique_Character_in_a_String.c) First Unique Character in a String
+  - 2022/03/20 (Sun.)
+    - (Easy) [350.](adam_leetcode/easy/350_Intersection_of_Two_Arrays_II.c) Intersection of Two Arrays II
+    - (Easy) [67.](adam_leetcode/easy/67_Add_Binary.c) Add Binary
