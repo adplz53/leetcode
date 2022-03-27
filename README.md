@@ -42,5 +42,13 @@
     - (Easy) [67.](adam_leetcode/easy/67_Add_Binary.c) Add Binary
 
 - Week 4
-  - (Easy) [876.](adam_leetcode/easy/876_Middle_of_the_Linked%20List.c) Middle of the Linked List
-  - (Easy) [338.](adam_leetcode/easy/338_Counting_Bits.c) Counting Bits
+  - 2022/03/22 (Tue.)
+    - (Easy) [876.](adam_leetcode/easy/876_Middle_of_the_Linked%20List.c) Middle of the Linked List
+  - 2022/03/23 (Wed.)
+    - (Easy) [338.](adam_leetcode/easy/338_Counting_Bits.c) Counting Bits
+  - 2022/03/24 (Thu.)
+    - (Easy) [1356.](adam_leetcode/easy/1356_Sort_Integers_by_The_Number_of_1_Bits.c) Sort Integers by The Number of 1 Bits
+  - 2022/03/26 (Sat.)
+    -  (Easy) [762.](adam_leetcode/easy/762_Prime_Number_of_Set_Bits_in_Binary_Representation.c) Prime Number of Set Bits in Binary Representation
+  - 2033/03/27 (Sun.)
+    - (Easy) [1337.](adam_leetcode/easy/1337_The_K_Weakest_Rows_in_a_Matrix.c) The K Weakest Rows in a Matrix
